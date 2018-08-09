@@ -1,4 +1,4 @@
-# free-wp
+# free-wikipedia
 A chrome extension to access wikipedia from Turkey
 
 This plugin basically replaces wikipedia.org url with https://www.0wikipedia.org (which is uncensored)
