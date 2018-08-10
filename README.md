@@ -5,7 +5,7 @@ This plugin basically replaces wikipedia.org url with https://www.0wikipedia.org
 
 ## Test
 
-git clone https://github.com/erdalbitik/free-wp.git 
+git clone https://github.com/erdalbitik/free-wp.git or download as zip file
 
 visit chrome://extensions on Chrome
 
